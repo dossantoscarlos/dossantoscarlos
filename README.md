@@ -15,10 +15,8 @@
 - Manipulação de banco de dados relacional
 - Criação de sites
 - Criacação de aplicações web
-
-##  Algumas tecnologia de uso profissional e de fins de estudos.
+  
  <p> Os repos publicos tem como foco compartilhar conhecimento entao pode ler os codigos copiar melhorar e estudar a vontade.</p>
-
 - :heart: PHP
 - 🔭 Java
 - 🌱 TypeScritpt
