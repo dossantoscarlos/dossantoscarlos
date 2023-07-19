@@ -14,10 +14,3 @@ Sou desenvolvedor php backend deste 2016. Acompanhei a sua evolução deste a ve
   
  <p> Os repos publicos tem como foco compartilhar conhecimento entao pode ler os codigos copiar melhorar e estudar a vontade.</p>
  
-- :heart: PHP
-- 🔭 Java
-- 🌱 TypeScritpt
-- 📫Laravel
-- 😄 Spring Boot
-- ⚡Livewire
-- 🛠 Angular
