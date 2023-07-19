@@ -1,6 +1,6 @@
 <h1> Carlos Eduardo </h1>
 <p>Sou apaixonado por criar e resolver problemas. Torna nossa vida mais facil, e uso da programação de computadores pra tornar isso possivel.</p>
-<bvr/>
+
 ## Carreira
  <p>
  Sou desenvolvedor php backend deste 2016. Acompanhei a sua evolução deste a versão php5. Atualmente meus projeto estao nna versão php8.
@@ -16,7 +16,7 @@
 - Criação de sites
 - Criacação de aplicações web
 
-## Sao as 🛠 ferramentas que uso de forma profissional aqui no meus repositório.
+##  Algumas tecnologia de uso profissional e de fins de estudos.
  <p> Os repos publicos tem como foco compartilhar conhecimento entao pode ler os codigos copiar melhorar e estudar a vontade.</p>
 
 - :heart: PHP
