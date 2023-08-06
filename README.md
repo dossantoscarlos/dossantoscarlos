@@ -1,6 +1,6 @@
 # Carlos Eduardo
 <p>
- Sou desenvolvedor web backend deste 2016. Acompanhei a sua evolução deste a versão php5. Atualmente meus projeto estão na versão php8. Nesse Caminho tambem testei frmaeworks pra fins de aumentar a produtividade de tempo de desenvolvimento. Nessa busca testei alguns como CakePHP, Slim, CodeIgniter, Symfony e laravel, de todos escolho o laravel para a maioria dos meus projetos, deste a versão laravel 5.8. A linguagens para back-end como  alternativa ao php são : java e JavaScript Na Front-end gosto das soluções Angular Framework, Reactjs, Vuejs.
+ Sou desenvolvedor web deste 2016. Acompanhei a sua evolução deste a versão php5. Atualmente meus projeto estão na versão php8. Nesse Caminho tambem testei frmaeworks pra fins de aumentar a produtividade de tempo de desenvolvimento. Nessa busca testei alguns como CakePHP, Slim, CodeIgniter, Symfony e laravel, de todos escolho o laravel para a maioria dos meus projetos, deste a versão laravel 5.8. A linguagens para back-end como  alternativa ao php são : java e JavaScript Na Front-end gosto das soluções Angular Framework, Reactjs, Vuejs.
  </p>
  
  ## Especialidade
