@@ -6,12 +6,19 @@
  ## Especialidade
 
 - Desenvolvedor back-end
-- Contrução de Api Rest
+- Construção de Api Rest
 - Consumo de Api Rest 
 - Manipulação de banco de dados relacional
 - Criação de sites
-- Criacação de aplicações web
+- Criação de aplicações web
   
+## Especialista nas linguagem
+
+- PHP
+- Java
+- Javascript/TypeScript
+
+
 <p> Os repos publicos tem como foco compartilhar conhecimento então pode ler os codigos copiar melhorar e estudar a vontade.</p>
 
 ## Habilidade com as tecnologias
