@@ -8,7 +8,7 @@
  ## Especialidade
 
 - Desenvolvedor back-end 
-- Manipulação de banco de dados relacional
+- Manipulação de banco de dados
 - Criação de aplicações web
   
 ## Especialista nas linguagem
