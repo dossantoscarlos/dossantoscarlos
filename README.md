@@ -1,7 +1,9 @@
-# Carlos Eduardo
+# Carlos Eduardo dos Santos
+
+##Sobre mim
 <p>
- Sou desenvolvedor web deste 2016. Acompanhei a sua evolução deste a versão php5. Atualmente meus projeto estão na versão php8. Nesse Caminho tambem testei frmaeworks pra fins de aumentar a produtividade de tempo de desenvolvimento. Nessa busca testei alguns como CakePHP, Slim, CodeIgniter, Symfony e laravel, de todos escolho o laravel para a maioria dos meus projetos, deste a versão laravel 5.8. A linguagens para back-end como  alternativa ao php são : java e JavaScript Na Front-end gosto das soluções Angular Framework, Reactjs, Vuejs.
- </p>
+ Apaixonando por elaboração e desenvolvimento de software com foco em agregar valores. Aprendendo constante e explorando novos caminho a cada dia. 
+</p>
  
  ## Especialidade
 
