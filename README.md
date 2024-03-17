@@ -36,8 +36,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=dossantoscarlos&theme=tokyo-night&custom_title=Carlos%20Eduardo%20
-      Grafico%20de%20Contribuição" />
+      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=dossantoscarlos&theme=tokyo-night&custom_title=Carlos%20Eduardo%20Grafico%20de%20Contribuição" />
     </td>
   </tr>
 </table>
