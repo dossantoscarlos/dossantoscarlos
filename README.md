@@ -26,47 +26,40 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=whoisdon&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true%22" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=dossantoscarlos&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true%22" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdon&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dossantoscarlos&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=whoisdon&theme=tokyo-night&custom_title=Whoisdon's%20Contribution%20Graph" />
+      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=dossantoscarlos&theme=tokyo-night&custom_title=dossantoscarlos's%20Contribution%20Graph" />
     </td>
   </tr>
 </table>
 
 > Provided by [`GitHub Readme Stats`] <br>
-> Support the languages of the README [`Portuguese (Brazil)`], [`French`], [`Spanish`], [`Japanese`] and [`Mandarin`]
+> Support the languages of the README [`Portuguese (Brazil)`]
 
 <!----------------- LINKS --------------->
-[`Ruby`]:                https://www.ruby-lang.org/en/
-[`Zig`]:                 https://ziglang.org/
 [`PHP`]:                 https://www.php.net/
 [`Python`]:              https://www.python.org/
 [`TypeScript`]:          https://www.typescriptlang.org/
 [`Kotlin`]:              https://kotlinlang.org/
 [`Java`]:                https://adoptopenjdk.net/
-[`Rust`]:                https://www.rust-lang.org/
 [`Go`]:                  https://golang.org
-[`Discord`]:             https://discord.com/
-[`discord.js`]:          https://discord.js.org/#/
 [`express.js`]:          https://expressjs.com/
-[`repositories`]:        https://github.com/whoisdon?tab=repositories
+[`repositories`]:        https://github.com/dossantoscarlos?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 
 <!--------------- Youtube ----------------->
-[`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL
-[`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo
 
 <!--------------- Projects ----------------->
-[`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
-[`Donkey Guide`]:       https://github.com/whoisdon/donkeyguide
-[`APIExpress`]:         https://github.com/whoisdon/APIExpress
-[`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
+<!-- [`CommunityStructure`]: https://github.com/dossantoscarlos/CommunityStructure
+[`Donkey Guide`]:       https://github.com/dossantoscarlos/donkeyguide
+[`APIExpress`]:         https://github.com/dossantoscarlos/APIExpress
+[`Kuruminha`]:          https://github.com/dossantoscarlos/CommunityStructure/tree/Kuruminha -->
 
 <!--------------- Language ----------------->
 [`Portuguese (Brazil)`]:     https://github.com/dossantoscarlos/dossantoscarlos/tree/main/multilingual-readme/pt-BR/README.md
