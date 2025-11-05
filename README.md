@@ -1,32 +1,4 @@
 # Carlos Eduardo dos Santos
-
-### Sobre mim
-<p>
- Apaixonando por elaboração e desenvolvimento de software com foco em agregar valores. Aprendendo constante e explorando novos caminho a cada dia. 
-</p>
- <table>
-  <tbody>
-   <tr>
-     <td>
-        <h3>Especialidade</h3>
-        <ol>
-           - Criação de aplicações web
-           - Rabbitmq
-           - Redis
-           - Banco de dados Relacional e NoSQL
-           - Container (Docker)
-           - Designer Patterns
-           - Arquitetura de sistemas (Hexagonal)
-           - MVC
-           - Monolito, Micro Serviço
-           - Dentre outros
-        </ol>
-      
-     </td>
-   </tr>
-  </tbody> 
- </table>
-  
 <p> Os repos publicos tem como foco compartilhar conhecimento então pode ler os codigos copiar melhorar e estudar a vontade.</p>
 
 ### Habilidade com as tecnologias
@@ -51,7 +23,7 @@
 </p>
 
 
-### 👀 Estatísticas
+### Estatísticas
 
 <table>
   <tr>
